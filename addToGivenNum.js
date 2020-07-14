@@ -10,4 +10,4 @@ for (i=2;i<=num;i++){
   return runningTotal
   }
 
-  console.log(summation(8))
+  console.log(summation(0))
