@@ -7,7 +7,7 @@ let evenArray = []
 function findEvenNumbers(nums) {
 
     for (i = 0; i < nums.length; i++) {
-        if (arr[i] % 2 === 0) {
+        if (nums[i] % 2 === 0) {
 
             evenArray.push(arr[i])
         }

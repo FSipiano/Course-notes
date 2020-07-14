@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/stringRepeater.js",
+            "program": "${workspaceFolder}/findEvenNumbers.js",
             "outputCapture": "std"
         }
     ]
